@@ -1,4 +1,4 @@
-#include "../include/my_get_next_line.h"
+#include "my_get_next_line.h"
 
 int     my_len(char *str, int x)
 {
