@@ -1,4 +1,4 @@
-#include "../include/lem_in.h"
+#include "lem_in.h"
 
 t_room          *create_room(t_room_param *current_param,
                              int nb_ant, int nb_max_ant, int mass)
