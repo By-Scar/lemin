@@ -1,4 +1,4 @@
-#include "../include/lem_in.h"
+#include "lem_in.h"
 
 int     get_nb_max_ant(char *str)
 {
