@@ -1,4 +1,4 @@
-#include "../include/lem_in.h"
+#include "lem_in.h"
 
 void    close_file(int fd)
 {
