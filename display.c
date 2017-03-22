@@ -1,4 +1,4 @@
-#include "../include/lem_in.h"
+#include "lem_in.h"
 
 void            display_ant_column_one(t_room *room_start, int nb_max_ant)
 {
