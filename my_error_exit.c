@@ -1,4 +1,4 @@
-#include "../include/my_error_exit.h"
+#include "my_error_exit.h"
 
 void    my_error_exit(char *err)
 {
