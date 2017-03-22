@@ -1,4 +1,4 @@
-#include "../include/my_display.h"
+#include "my_display.h"
 
 void    my_putchar(char c)
 {
