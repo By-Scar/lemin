@@ -1,4 +1,4 @@
-#include "../include/lem_in.h"
+#include "lem_in.h"
 
 t_room_param    *analyse_line_conf_room(char *str)
 {
