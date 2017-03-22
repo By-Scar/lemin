@@ -1,4 +1,4 @@
-#include "../include/my_strncpy.h"
+#include "my_strncpy.h"
 
 char    *my_strncpy(char *dest, char *src, int n)
 {
