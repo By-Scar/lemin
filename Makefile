@@ -6,19 +6,19 @@ CFLAGS  += -Wall -pedantic
 
 NAME    = lem_in
 
-SRCS    = sources/main.c \
-          sources/config_loader.c \
-          sources/analyse_line.c \
-          sources/create_room.c \
-          sources/utils_malloc.c \
-          sources/my_get_next_line.c \
-          sources/my_display.c \
-          sources/my_strcpy.c \
-          sources/my_strncpy.c \
-          sources/my_error_exit.c \
-          sources/algo.c \
-          sources/display.c \
-          sources/research.c
+SRCS    = main.c \
+          config_loader.c \
+          analyse_line.c \
+          create_room.c \
+          utils_malloc.c \
+          my_get_next_line.c \
+          my_display.c \
+          my_strcpy.c \
+          my_strncpy.c \
+          my_error_exit.c \
+          algo.c \
+          display.c \
+          research.c
 
 OBJS    = $(SRCS:.c=.o)
 
