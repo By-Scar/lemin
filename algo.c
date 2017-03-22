@@ -1,4 +1,4 @@
-#include "../include/lem_in.h"
+#include "lem_in.h"
 
 t_room          *find_the_lightest_room(int nb_all_rooms, t_room **all_rooms)
 {
